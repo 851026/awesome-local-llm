@@ -161,8 +161,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [MiniMax-M2](https://huggingface.co/collections/MiniMaxAI/minimax-m2) - a collection of SOTA models for real-world dev & agents
 - [Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) - a 118B total parameter Mixture-of-Experts model with 8B activated parameters per token, designed for agentic coding and long-horizon work
 - [SWE-FastContext](https://huggingface.co/collections/microsoft/swe-fastcontext) - a family of code-search models from Microsoft powering the Explore subagent for coding agents
-- [OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B) - a 9-billion parameter coding agent model built by Tesslate, fine-tuned on top of Qwen3.5-9B's hybrid architecture
-- [NousCoder-14B](https://huggingface.co/NousResearch/NousCoder-14B) - a competitive programming model post-trained on Qwen3-14B via reinforcement learning
+- [AesCode-32B](https://huggingface.co/microsoft/AesCode-32B) & [AesCode-8B](https://huggingface.co/microsoft/AesCode-8B) - models from Microsoft that generates information-rich visual artifacts such as slides, posters, and dashboards as HTML/CSS
 - [MusaCoder-27B](https://huggingface.co/MooreThreads/MusaCoder-27B) - a code model developed by Moore Threads for PyTorch-to-CUDA/MUSA native kernel generation
 
 [Back to Table of Contents](#table-of-contents)
