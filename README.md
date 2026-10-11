@@ -156,7 +156,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - [Qwen3-Coder-Next](https://huggingface.co/collections/Qwen/qwen3-coder-next) - a collection of Qwen's open-weight language models designed specifically for coding agents and local development
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Devstral 2](https://huggingface.co/collections/mistralai/devstral-2) - a couple of agentic LLMs for software engineering tasks, excelling at using tools to explore codebases, edit multiple files, and power SWE Agents
-- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mellum 2](https://huggingface.co/collections/JetBrains/mellum-2) - an assistant model trained by JetBrain
+- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mellum 2.1](https://huggingface.co/collections/JetBrains/mellum21) - an assistant model trained by JetBrain
 - [MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) - a native multimodal model with 1M context
 - [MiniMax-M2](https://huggingface.co/collections/MiniMaxAI/minimax-m2) - a collection of SOTA models for real-world dev & agents
 - [Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) - a 118B total parameter Mixture-of-Experts model with 8B activated parameters per token, designed for agentic coding and long-horizon work
