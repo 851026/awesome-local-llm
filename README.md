@@ -182,7 +182,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Ming-Image-0.1-Design](https://huggingface.co/inclusionAI/Ming-Image-0.1-Design) - a 6B text-to-image model for UI, infographics, posters, and other text-rich visual designs
 - [Granite Vision](https://huggingface.co/collections/ibm-granite/granite-vision) - multimodal models from IBM built for visual document analysis and image understanding
 - [HunyuanImage](https://huggingface.co/collections/tencent/hunyuanimage) - a collection of image generation models from Tencent
-- [HunyuanVideo](https://huggingface.co/collections/tencent/hunyuanvideo) - a collection of video generation models from Tencent 
+- [HunyuanVideo](https://huggingface.co/collections/tencent/hunyuanvideo) - a collection of video generation models from Tencent
+- [Youtu-Parsing-Omni](https://huggingface.co/tencent/Youtu-Parsing-Omni) - a model from Tencent that parses documents, images, charts, geometry, audio and video into structured JSON
 - [Vidi](https://huggingface.co/collections/bytedance-research/vidi) - a collection of models for multimodal video understanding and creation
 - [FastVLM](https://huggingface.co/collections/apple/fastvlm-68ac97b9cd5cacefdd04872e) - a collection of VLMs with efficient vision encoding from Apple
 - [MiniCPM-o & MiniCPM-V](https://huggingface.co/collections/openbmb/minicpm-o-and-minicpm-v) - multimodal models with leading performance
