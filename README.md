@@ -212,6 +212,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 #### Retrieval-Augmented Generation
 
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron RAG](https://huggingface.co/collections/nvidia/nemotron-rag) - a set of tools to build retrieval-augmented generation (RAG) systems, improve search and ranking accuracy, and extract structured data from complex docs
+- <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [EmbeddingGemma 2](https://huggingface.co/google/embeddinggemma-2) - an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and combinations thereof—into a single, unified 768-dimensional vector space
 - [Qwen3-Embedding](https://huggingface.co/collections/Qwen/qwen3-embedding) - a collection of the latest proprietary Qwen models, specifically designed for text embedding and ranking tasks
 - [Qwen3-VL-Embedding](https://huggingface.co/collections/Qwen/qwen3-vl-embedding) - an addition to the Qwen embedding models, specifically designed for multimodal information retrieval and cross-modal understanding
 - [Qwen3-Reranker](https://huggingface.co/collections/Qwen/qwen3-vl-reranker) - a collection of the latest proprietary Qwen models, engineered to refine embedding results
