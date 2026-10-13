@@ -239,6 +239,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### Miscellaneous
 
+- [Decision 3.0](https://huggingface.co/collections/vllm-sr/decision-30) - a collection of Open multimodal foundation decision models
 - [GLiNER2.5](https://huggingface.co/collections/fastino/gliner25-models) - a collection of models for schema-driven information extraction and classification
 - [clef](https://huggingface.co/Cloudflare/clef) - a multimodal model from Cloudflare that turns a state and a schema of typed questions into decisions
 - [d1-3B](https://huggingface.co/LiquidAI/d1-3B) & [d1-omni-600M](https://huggingface.co/LiquidAI/d1-omni-600M) - open source decision models
