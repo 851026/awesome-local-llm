@@ -188,7 +188,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [FastVLM](https://huggingface.co/collections/apple/fastvlm-68ac97b9cd5cacefdd04872e) - a collection of VLMs with efficient vision encoding from Apple
 - [MiniCPM-o & MiniCPM-V](https://huggingface.co/collections/openbmb/minicpm-o-and-minicpm-v) - multimodal models with leading performance
 - [LFM2.5-VL](https://huggingface.co/collections/LiquidAI/lfm25-vl) - a collection of vision-language models, designed for on-device deployment
-- [ClipTagger-12b](https://huggingface.co/inference-net/ClipTagger-12b) -  a vision-language model (VLM) designed for video understanding at massive scale
 
 [Back to Table of Contents](#table-of-contents)
 
