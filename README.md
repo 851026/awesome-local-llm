@@ -171,6 +171,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - [Qwen3-Omni](https://huggingface.co/collections/Qwen/qwen3-omni-68d100a86cd0906843ceccbe) - a collection of the natively end-to-end multilingual omni-modal foundation models from Qwen
 - [GLM-4.6V](https://huggingface.co/collections/zai-org/glm-46v) - a collection of open source multimodal models with native tool use from Zhipu AI
+- [MiniCPM-o & MiniCPM-V](https://huggingface.co/collections/openbmb/minicpm-o-and-minicpm-v) - multimodal models with leading performance
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -186,7 +187,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Youtu-Parsing-Omni](https://huggingface.co/tencent/Youtu-Parsing-Omni) - a model from Tencent that parses documents, images, charts, geometry, audio and video into structured JSON
 - [Vidi](https://huggingface.co/collections/bytedance-research/vidi) - a collection of models for multimodal video understanding and creation
 - [FastVLM](https://huggingface.co/collections/apple/fastvlm-68ac97b9cd5cacefdd04872e) - a collection of VLMs with efficient vision encoding from Apple
-- [MiniCPM-o & MiniCPM-V](https://huggingface.co/collections/openbmb/minicpm-o-and-minicpm-v) - multimodal models with leading performance
+- [MiniCPM-V 4.7](https://huggingface.co/collections/openbmb/minicpm-v-47) - a collection of models with single-image, multi-image, and video understanding capabilities
 - [LFM2.5-VL](https://huggingface.co/collections/LiquidAI/lfm25-vl) - a collection of vision-language models, designed for on-device deployment
 
 [Back to Table of Contents](#table-of-contents)
