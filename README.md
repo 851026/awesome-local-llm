@@ -150,6 +150,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Step-3.7-Flash](https://huggingface.co/collections/stepfun-ai/step-37-flash) - Mixture-of-Experts vision-language model for developers who need to scale agentic workflows that combine perception, search, and reasoning
 - [Occamy-1.0](https://huggingface.co/Accio-Lab/occamy-1.0) - a compact agentic model purpose-built for real-world co-work
 - [MiniCPM5](https://huggingface.co/collections/openbmb/minicpm5) - a collection of SOTA on-device LLMs, small yet powerful
+- [LFM2.5](https://huggingface.co/collections/LiquidAI/lfm25) - a family of hybrid models designed for on-device deployment
 
 [Back to Table of Contents](#table-of-contents)
 
