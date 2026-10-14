@@ -364,7 +364,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/puppeteer/puppeteer?style=social" height="17" align="texttop"/> [puppeteer](https://github.com/puppeteer/puppeteer) - a JavaScript API for Chrome and Firefox
 - <img src="https://img.shields.io/github/stars/microsoft/playwright?style=social" height="17" align="texttop"/> [playwright](https://github.com/microsoft/playwright) - a framework for Web Testing and Automation
 - <img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" height="17" align="texttop"/> [stagehand](https://github.com/browserbase/stagehand) -  the AI Browser Automation Framework
-- <img src="https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social" height="17" align="texttop"/> [nanobrowser](https://github.com/nanobrowser/nanobrowser) -  open-source Chrome extension for AI-powered web automation
+- <img src="https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social" height="17" align="texttop"/> [nanobrowser](https://github.com/nanobrowser/nanobrowser) - open-source Chrome extension for AI-powered web automation
+- <img src="https://img.shields.io/github/stars/Tencent/BrowserSkill?style=social" height="17" align="texttop"/> [BrowserSkill](https://github.com/Tencent/BrowserSkill) - CLI + extension for browser automation across any shell-capable AI agent
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -374,6 +375,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/milla-jovovich/mempalace?style=social" height="17" align="texttop"/> [mempalace](https://github.com/milla-jovovich/mempalace) - the highest-scoring AI memory system ever benchmarked
 - <img src="https://img.shields.io/github/stars/supermemoryai/supermemory?style=social" height="17" align="texttop"/> [supermemory](https://github.com/supermemoryai/supermemory) - memory engine and app that is extremely fast, scalable
 - <img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" height="17" align="texttop"/> [cognee](https://github.com/topoteretes/cognee) - memory for AI Agents in 5 lines of code
+- <img src="https://img.shields.io/github/stars/TencentCloud/tencentdb-agent-memory?style=social" height="17" align="texttop"/> [TencentDB-Agent-Memory](https://github.com/TencentCloud/tencentdb-agent-memory) -  a team-level memory hub for AI Agents
 - <img src="https://img.shields.io/github/stars/letta-ai/letta?style=social" height="17" align="texttop"/> [letta](https://github.com/letta-ai/letta) - the stateful agents framework with memory, reasoning, and context management
 - <img src="https://img.shields.io/github/stars/LMCache/LMCache?style=social" height="17" align="texttop"/> [LMCache](https://github.com/LMCache/LMCache) - supercharge your LLM with the fastest KV Cache Layer
 - <img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=social" height="17" align="texttop"/> [memU](https://github.com/NevaMind-AI/memU) - an open-source memory framework for AI companions
